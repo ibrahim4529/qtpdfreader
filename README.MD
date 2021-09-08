@@ -1,4 +1,4 @@
-#SIMPLE QT PDFREADER
+# SIMPLE QT PDFREADER
 
 This project is for have fun
 the last goal of this project is creating pdfreader can handle translate on hover using Google Translate api 
